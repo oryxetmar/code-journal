@@ -17,4 +17,7 @@ my first entry- for real. this time
 - here is the sequence
     1. make a change
     2. save the file
-    3.
+    3. go to the terminal
+    4. ` git add . `
+    5. ` git commit -m "message here" `
+    6.  ` git push `
