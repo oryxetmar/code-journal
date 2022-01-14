@@ -14,4 +14,7 @@ my first entry- for real. this time
 ### biggest question:
 -i need to know what the order is for git to vscode/terminal
 - https://www.atlassian.com/git/glossary
-- 
+- here is the sequence
+    1. make a change
+    2. save the file
+    3.
