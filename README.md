@@ -21,3 +21,18 @@ my first entry- for real. this time
     4. ` git add . `
     5. ` git commit -m "message here" `
     6.  ` git push `
+
+# 01-15-22
+## it is very early lol or very late 
+### i just tried to create a `merge conflict` 
+- i cloned the repo that erik made
+- i made changes to the file in my vscode
+- i saved changes to my computer (is this called local or staging area)
+- i used my terminal to `git add .` `git push` `git status`
+- received *everything up-to-date* as feedback
+- `git status` listed up to date with `origin/main`
+- (use "git restore --staged <file>..." to unstage)
+        modified:   README.txt
+        I dont know if ive created a conflict
+        but I didnt `commit to -m`  soooo im hoping i did it
+        
