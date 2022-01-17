@@ -35,4 +35,18 @@ my first entry- for real. this time
         modified:   README.txt
         I dont know if ive created a conflict
         but I didnt `commit to -m`  soooo im hoping i did it
-        
+
+# 01-17-22
+## websites i want to work through tonight
+- https://www.atlassian.com/git/tutorials/saving-changes/git-commit
+    -  https://www.atlassian.com/git/tutorials/using-branches/git-merge
+    -    https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github
+
+ ### Watch whole lecture back and follow along
+
+ ### to-do:
+ - edit images, suss apps/websites recommended and pick fav?
+ - do assignment
+
+### submit merge conflict asssignment
+- how do i link to lines in the README to show my specific conflicts and resolutions
