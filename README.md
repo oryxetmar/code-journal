@@ -77,5 +77,18 @@ my first entry- for real. this time
 - i am going to take a pause from this journal entry for today and move to the assignment so that i can better journal about my **steps taken** 
 ## brb
 
+### daily work update
+**static website from command line to GitHub**
+- i think i did it! link below:
+https://github.com/oryxetmar/template-exercise
+
+- it took my quite awhile to figure out how to downlad a template, honestly. which i dont even think was suppsoed to be difficult
+- this website was a help: https://towardsdatascience.com/building-a-beautiful-static-webpage-using-github-f0f92c6e1f02
+    - and i found my template here : https://html5up.net/
+
+**confession** i dont understand where to see the actual website that guthub is creating through these repos
+
+I realize I am excessively journaling here but i need to understand **gists** now and i am a bit confused about what they are
+
 - shift + control + 4 = screen cap
 - cassie codes - design blog details/Ashlyn showing us her blog design
