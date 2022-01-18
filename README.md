@@ -56,9 +56,15 @@ my first entry- for real. this time
 
 1.) I want to be coding for one hour a day
     - i need to learn so much more about this lol
+---
+
 2.) I want to be a day ahead of the Prep at all times so that i feel less overwhelmed
+---
+
 3.) I want to have several more coding phrases memorized
     - it is so cool to me that coders use tons and tons of phrases but not necessarily the same ones all the time to get the same actions done
+---
+
 4.) My Performance:
     - I am so brand new to everyhting here that my performance is going to be based a bit behind where I would ideally like to be
     - i want daily github activity
@@ -66,6 +72,8 @@ my first entry- for real. this time
     - i am currently shocked that i seem to be understanding most things at this point (do not want to speak too soon sos)
     - i need to be more on top of all the extra things mentioned in class time 
         ie.) the apps mentioned, programs people use, being faster with my terminal terms
+--- 
+
 ### today's wins :
 - I am not feeling like there are a lot right now
 - I have some health things that come up and make it very difficult to be in front of a screen when pain isnt managed, so today is a rough one
