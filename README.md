@@ -90,5 +90,13 @@ https://github.com/oryxetmar/template-exercise
 
 I realize I am excessively journaling here but i need to understand **gists** now and i am a bit confused about what they are
 
+# so cool
+## things i just remembered on my own:
+### i ran into the same problem as the first time i tried pushing to git after additions from VSCode code-journal to my github -
+**you have to save in VSCode before adding and committing and then pushing**
+    - i realize this seems basic but i solved the problem so quikcly this time on my own sooooo
+### daily wins:
+    - solving code errors (even if the most basic) - nailed it.
+
 - shift + control + 4 = screen cap
 - cassie codes - design blog details/Ashlyn showing us her blog design
