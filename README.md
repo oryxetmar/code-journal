@@ -108,3 +108,11 @@ I realize I am excessively journaling here but i need to understand **gists** no
 
 - shift + control + 4 = screen cap
 - cassie codes - design blog details/Ashlyn showing us her blog design
+
+# 01-20-22
+## pulling up dev mode
+
+- To open the developer console in Google Chrome, open the Chrome Menu in the upper-right-hand corner of the browser window and select More Tools > Developer Tools. You can also use Option + ⌘ + J (on macOS), or Shift + CTRL + J (on Windows/Linux).
+
+**must use firefox to open dev tools**
+    - had to set all acount in firefox with memorized passwords, took a hot minute
