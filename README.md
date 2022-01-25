@@ -149,6 +149,20 @@ I realize I am excessively journaling here but i need to understand **gists** no
 - go through classes on html, css and flex box **wtf is happening here**
 - why do the git repos that i forked have `styles.css` files attached ?
 
+## Wiki Article + Figma
+- as a small win, i understand how to get figma images into my codepen files
+- as a massive loss, i am struggling with css details and how expansive they can be
+
+## css styles + images + colors
+- i am putting tgthr a folder with my favs or design assets that may be useful in the future
+- here is an attched link for the work ive been doing with figma
+https://www.figma.com/files/drafts?fuid=1063491473920432983
+
+- here is an attached link for my struggles with the nav bar assignment. 
+https://codepen.io/pen/
+
+- i need definite help with this one so i can understand the assignment due on Wednesday 26th
+
 ## wednesday due date for first assignment - sos
 
 
@@ -171,3 +185,4 @@ I realize I am excessively journaling here but i need to understand **gists** no
 - `rm -rf` remove a directory
 - `../` go back one directory
 - `./` right here
+
