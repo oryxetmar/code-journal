@@ -116,3 +116,31 @@ I realize I am excessively journaling here but i need to understand **gists** no
 
 **must use firefox to open dev tools**
     - had to set all acount in firefox with memorized passwords, took a hot minute
+
+# 01-24-22
+## massive to-do list
+
+### housekeeping / catchup
+
+1. go through Jan 18 class
+    - recording + notes
+2. go through Jan 19 class
+    - recording + notes
+    - exercise 2 : navigation / tonight due
+3. go through Jan 20 class
+    - recording + notes
+4. go through Jan 21 class
+    - recordning + notes
+
+*most important ; i feel like im behind*
+- complete and hand in navigation assignment
+- go through classes on html, css and flex box **wtf is happening here**
+- why do the git repos that i forked have `styles.css` files attached ?
+
+## wednesday due date for first assignment - sos
+
+
+    - enitre box is a body tag - do not need to tag, it is the whole box
+    - main tag doesnt need to exist - if your website has a primary section <main> is a good wrapper
+    - <header> needed, <footer> needed
+    - <nav> <href=>
