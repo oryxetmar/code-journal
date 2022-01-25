@@ -54,18 +54,15 @@ my first entry- for real. this time
 # 01-18-22
 ## markdown journal for assignment
 
-1.) I want to be coding for one hour a day
+1. I want to be coding for one hour a day
     - i need to learn so much more about this lol
----
 
-2.) I want to be a day ahead of the Prep at all times so that i feel less overwhelmed
----
+2. I want to be a day ahead of the Prep at all times so that i feel less overwhelmed
 
-3.) I want to have several more coding phrases memorized
+3. I want to have several more coding phrases memorized
     - it is so cool to me that coders use tons and tons of phrases but not necessarily the same ones all the time to get the same actions done
----
 
-4.) My Performance:
+4. My Performance:
     - I am so brand new to everyhting here that my performance is going to be based a bit behind where I would ideally like to be
     - i want daily github activity
     - i want as many labs as possible completed either during labtime or on  weekends/evenings
@@ -116,6 +113,21 @@ I realize I am excessively journaling here but i need to understand **gists** no
 
 **must use firefox to open dev tools**
     - had to set all acount in firefox with memorized passwords, took a hot minute
+
+# 01-21-22
+## Responsive Web Design
+- flexbox is confusing the hell out of me
+- i feel like i blinked and now im confused. I thought i understood it but now i cant seem to get a flexbox going with the .css styles?
+- i did my wiki article and that made sense mostly
+
+### struggles
+- how the heck are images being controlled properly and why wont my text centre? I honestly dont understand.
+- i understand colors and for the most part i understand text
+- html isnt an issue but i am struggling hard with css, have like 40 tabs iopen just trying to figure out what on earth im doing wrong
+
+### helpful link
+- https://gist.github.com/lilyx13/cbd281e55057a3f5e6f094008d8a8e3d 
+
 
 # 01-24-22
 ## massive to-do list
