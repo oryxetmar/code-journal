@@ -144,3 +144,18 @@ I realize I am excessively journaling here but i need to understand **gists** no
     - main tag doesnt need to exist - if your website has a primary section <main> is a good wrapper
     - <header> needed, <footer> needed
     - <nav> <href=>
+
+# Little Notes 
+
+-  shift + control + 4 = screen cap
+- cassie codes - design blog details/Ashlyn showing us her blog design
+
+## Command Line Commands
+- `mv` move
+- `cd` change directory
+- `touch` create file
+- `mkdir` make directory
+- ``rm` remove file 
+- `rm -rf` remove a directory
+- `../` go back one directory
+- `./` right here
