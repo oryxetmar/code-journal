@@ -199,3 +199,20 @@ I want my assignment 260-a1 done this evening.
 Here is a link to my current progress and honestly it is not much. But it is a massive win for me :)
 
 Being able to solve any small bug issues or terminal issues feels massive to me.
+
+### not helpful google searches for today
+https://www.google.com/search?client=firefox-b-d&q=how+do+i+make+my+links+go+in+a+row+html
+lol
+
+### helpful google searches
+https://www.w3schools.com/cssref/default.asp
+
+## Work Accomplished For Today
+
+- font awesome and line awesome installed
+- i learned how to put these into the <head> of my codepens
+- nav bar!! I finally figured this out and am working on the main content of assignment one
+- i realized that code journals were due last week and this week when i thought they were not until march (i didnt realzie birghtspace had a place for code jounral in 260 and not just course 270, thats a hard mybad)
+- i am still struggling a bit i think to understand github pages
+- they were simple until i attempted to add a .css style to my code journal and now i cant seem to pull up the live page anymore.
+
