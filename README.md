@@ -186,3 +186,16 @@ https://codepen.io/pen/
 - `../` go back one directory
 - `./` right here
 
+# 01-25-22
+
+### Little wins for today!!
+- i cannot tell you how long i worked from this morning until 7:22pm to understand WHY ON EARTH my nave bar wouldnt properly row my links. so my solving this issue on my own is very big news.
+### DISPLAY: FLEX;
+- the above command needs to be listed under the specified container in order for flexbox commands to be applied. *insert crying face, like sobbing face*
+
+I have to be gone for all of class tmr and I am so panicked about it. This means I NEEDED to properly catch up and understand flexbox and .css TODAY.
+I want my assignment 260-a1 done this evening. 
+
+Here is a link to my current progress and honestly it is not much. But it is a massive win for me :)
+
+Being able to solve any small bug issues or terminal issues feels massive to me.
