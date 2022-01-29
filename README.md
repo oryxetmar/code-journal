@@ -216,7 +216,7 @@ https://www.w3schools.com/cssref/default.asp
 - i am still struggling a bit i think to understand github pages
 - they were simple until i attempted to add a .css style to my code journal and now i cant seem to pull up the live page anymore.
 
-# 3am 01-27-22
+# 3am 01-26-22
 ### i will write a proper entry about the full cpnt260-a1 assignment in the am
 
 - Reflection:
