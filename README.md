@@ -236,3 +236,14 @@ https://www.w3schools.com/cssref/default.asp
 - if zipping my file destroys everything... RIP
 
 Thanks for coming to my Ted Talk on Coding for Dumbies 101
+
+# 01-30-22
+## coding daily goals
+- i have been trying hard to make sure i am pushing through updates and all assignments or projects to github, i want as much green as possible on the little chart 
+- its been solid practice to make sure my `css.styles` and `stylesheets` properly sync up when made into github pages
+
+## issues
+- im having issues with the breakpoints so today i am trying to focus on figuring that out
+- this last week had me feeling a bit disappointed in how behind i was (always like a day or two)
+- I have some health stuff that can really get in the way of following lectures or studying when a round of nausea strikes and this week was a rough go so i felt like i wasnt able to follow along as well as i needed to
+
