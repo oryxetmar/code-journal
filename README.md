@@ -247,3 +247,24 @@ Thanks for coming to my Ted Talk on Coding for Dumbies 101
 - this last week had me feeling a bit disappointed in how behind i was (always like a day or two)
 - I have some health stuff that can really get in the way of following lectures or studying when a round of nausea strikes and this week was a rough go so i felt like i wasnt able to follow along as well as i needed to
 
+### to access fontawesome icons 
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
+
+- You can also download the icons and store them in your assets
+- set icons with <i> tag
+
+### @media media-type and (media-feature-rule) { /* styles here */ }
+
+- https://css-tricks.com/a-complete-guide-to-css-media-queries/
+
+# 01-31-22
+
+## my ABOUT/HOME GIT PAGE
+https://oryxetmar.github.io/home-about-page/
+
+### Reflection on assign 2
+- setting up the interactive navbar was the biggest thing to learn here
+- trying to set up a drop down menu that was invisibile and then visible and hovered with transparent background took me awhile (i could not figure it out last night and was so frustrated so i need to wake up and do it today)
+- its actually super cool to see how much ive learned tho in such a sort window: links, linking pages in the nav bar, colums, hovering etc
+
