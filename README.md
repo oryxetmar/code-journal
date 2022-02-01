@@ -272,9 +272,35 @@ https://oryxetmar.github.io/home-about-page/
 
 ## Form Page
 - there is a lot to unpack here
+- im confused about *radio* buttons-
+    - are they supposed to be in some way.. responsive differently than *text* ?
+    - why so many different tags ... with similar or identical titles : ie <label for="time-to-call" class="input-title">Best Time to Call</label>
+        <input type="time-to-call"name="time-to-call" id="time-to-call"placeholder="required"> 
 
 ## Questions for Ashlyn
 - i am confused about gists vs repo
 - hackmd vs github vs  codepen vs vscode
 - if i am writing my html through vscode; is it showing up in a github pages as i edit?
 - notes/journal entries : hackmd or readme for github ?
+### Re Radio Buttons
+
+- in a group of radio buttons you can only select one
+- in check boxes oyu can select many
+
+### ID Class 
+- override a class by using ID
+- one class gets only one ID
+
+### Learn UI/UX Design Figma
+    - https://www.youtube.com/watch?v=YiLUYf4HDh4
+    -abive ^ crash course
+
+### freecodecamp - begin full html course
+    - https://www.freecodecamp.org/learn/responsive-web-design/
+
+
+## Update Understanding - index.html / Go Live in VSCode
+
+- i get it now. 
+- lol there is a go live button at the bottom of this app ; from there i am able to see my work as i change it in the index.html
+
