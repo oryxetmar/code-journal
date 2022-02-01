@@ -268,3 +268,13 @@ https://oryxetmar.github.io/home-about-page/
 - trying to set up a drop down menu that was invisibile and then visible and hovered with transparent background took me awhile (i could not figure it out last night and was so frustrated so i need to wake up and do it today)
 - its actually super cool to see how much ive learned tho in such a sort window: links, linking pages in the nav bar, colums, hovering etc
 
+# 02-01-22
+
+## Form Page
+- there is a lot to unpack here
+
+## Questions for Ashlyn
+- i am confused about gists vs repo
+- hackmd vs github vs  codepen vs vscode
+- if i am writing my html through vscode; is it showing up in a github pages as i edit?
+- notes/journal entries : hackmd or readme for github ?
