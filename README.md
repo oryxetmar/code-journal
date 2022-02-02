@@ -304,3 +304,37 @@ https://oryxetmar.github.io/home-about-page/
 - i get it now. 
 - lol there is a go live button at the bottom of this app ; from there i am able to see my work as i change it in the index.html
 
+# 02-02-22
+
+- that is a lot of 2s
+
+### links from jessica to clean up files
+### erik helped me with this clean up structure this morning before jessica brought it up!
+
+https://gist.github.com/Enyorose/6211a10f939b83f61cf441db5a1fed25
+
+### image gallery
+- i am doing ocean images because i am so so very over the winter. 
+- i realized the difference in scss and css today. woohoo lol
+
+### this weekends plan
+
+- firs things first: i am finishing my galery page tonight
+- code journal uptp date
+- begin to clean up files and github
+- i want to have my design pages all within one repo as index.html files corresponding to the properly linked style.css 
+- i need an images folder withing my assest folder
+- erik had such a clean working space and mine has been stressing me out but for some reaosn i hadnt realized you could organize that way. 
+- it will take me the weekend for sure but in the next few days i am going to have it figured out and clean
+
+### form pages 
+
+- i need to make another one that properly uses radio buttons. over the weekend id like to do that as well. just a quick one that gives me more experience 
+
+### animated designs
+
+- https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/CSS_Grid_and_Progressive_Enhancement
+
+- transform https://css-tricks.com/almanac/properties/t/transform/
+
+
