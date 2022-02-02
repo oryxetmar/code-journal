@@ -337,4 +337,14 @@ https://gist.github.com/Enyorose/6211a10f939b83f61cf441db5a1fed25
 
 - transform https://css-tricks.com/almanac/properties/t/transform/
 
+### Eriks github format
+
+- this was what erik shared wiht me for organization and its so awesome
+
+https://github.com/Skies966/Kyber/tree/master/assets/Images
+
+working on it!
+ -i know i should have already been this tidy and understood that this was the best way to organize but for some reason it only clicked this afternoon. 
+
+
 
