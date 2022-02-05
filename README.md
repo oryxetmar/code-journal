@@ -344,7 +344,16 @@ https://gist.github.com/Enyorose/6211a10f939b83f61cf441db5a1fed25
 https://github.com/Skies966/Kyber/tree/master/assets/Images
 
 working on it!
- -i know i should have already been this tidy and understood that this was the best way to organize but for some reason it only clicked this afternoon. 
+ -i know i should have already been this tidy and understood that this was the best way to organize but for some reason it only clicked this afternoon.
+
+ # 02-03-22
+
+ ## CCS Tricks
+
+ - `border-radius: 15px 50px 30px 5px;` or `border-radius: 50px 50px 50px 50px;` i liked that better
+ - ` box-shadow: 0 20px 20px #70400f;`
+
+ 
 
 
 
