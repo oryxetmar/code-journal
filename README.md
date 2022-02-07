@@ -353,7 +353,45 @@ working on it!
  - `border-radius: 15px 50px 30px 5px;` or `border-radius: 50px 50px 50px 50px;` i liked that better
  - ` box-shadow: 0 20px 20px #70400f;`
 
- 
+# 02-06-22
+
+## Hero Assignment cpnt260-a4
+
+ - I want the users to spend their money and to subscribe to a monthly auto plan
+ - so my CTA should show different types of coffee we have and be a visaully appealing prompt to either SHOP or view more info on SUBSCRIPTION
+
+ *side note* - i really freaking overcommited to this coffee bean theme. good gawd. 
+
+ - which means on my site... i would actually want two hero sections... or a slide show?
+    - buy this caaffaaayyy
+    - find out more about our subscription program discounts
+
+- ask ashlyn if the css file can be created by command `touch` or if not because that creates and index.html file
+
+- above question - yes it can lol
+
+# 02-07-22
+## it is 4;15 am and i cannot figure out why my css stylesheets wont attach to assign4cpnt
+
+- it cant be because my form page is a different style i dont think because it is linked by its live page
+- i dont understand the 3rd party api
+    - well i do understand it i think but i dont seem to get where it is supposed to be attached
+
+- basically i need to have ten minutes with ash to ask whats happening and also about the apis and then my assignment can be in super quick
+
+### javascript
+
+- i am two classes behind and need to catch that up tmr and tuesday
+- its possible the api is needed to attach stylesheets?
+- i am assuming there is a javasccript code that is necessary maybe for cpnt260-a4 but gawd damn it i cant figure it out right now. 
+
+# I Met With a cybersecurity guy on the weekend
+- I wanted to start reaching out to anyone i know or could be referred to by friends that is in the realm of tech
+- clearly after my v disapponting attempt to submit what i thought was not that difficult of a project ... no rush on finding any sort of anything else in lieu of practicum goals if i cant do any of this java stuff yet!! agh. 
+
+
+
+
 
 
 
