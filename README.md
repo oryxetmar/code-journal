@@ -389,9 +389,22 @@ working on it!
 - I wanted to start reaching out to anyone i know or could be referred to by friends that is in the realm of tech
 - clearly after my v disapponting attempt to submit what i thought was not that difficult of a project ... no rush on finding any sort of anything else in lieu of practicum goals if i cant do any of this java stuff yet!! agh. 
 
+### important
+
+/ is the root of the current drive;
+    ./ is the current directory;
+    ../ is the parent of the current directory.
 
 
 
+# 02-08-22
 
+## JS Time
 
+- i am playing catch-up, shocker
 
+### Todays Goals
+
+- take down the first two classes of JS
+- tmr take down the next two and understand project due on wednesday
+- thank god i have no work tmr 
