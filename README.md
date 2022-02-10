@@ -408,3 +408,87 @@ working on it!
 - take down the first two classes of JS
 - tmr take down the next two and understand project due on wednesday
 - thank god i have no work tmr 
+
+# 02-10-22
+
+## Java Basics 
+
+- DOM animates html and css
+    - any time an element is dynamically changed ie. pop up, new style applied, interactive form etc.- that is DOM at work
+- GEOlocatyion is googlemaps shenanigans 
+    - retrieves location
+- Canvas and WebGl are for 2D and #d animations
+- Audio and Video APIs ie. HTMLMediaElement and Web RTC allow for multimedia dynamics
+
+- Third Party APIs are not apart of your browser but instead are borrowed code from a third oparty ie. google maps api to allow for location to be displayed on your business page
+
+## watch that your html css and js are all applied in proper order
+    - issues can arise when jave is run before html and css because java is intended to modify those, not lead
+- java is usually run in order , top to bottom
+- always check the order of your code to make sure that referenced objects are defined before asking them for dynamics
+- java can be a server-side web langauge  as well as a client-side code
+
+## dynamic vs static code
+
+- if the website changes whils on server or client side (typically they work together) then it is dynamic
+- if website remains exactly the same for entire time then it is static
+
+## applying Java
+
+- it is done through the html page - through on element `<script>` where as css uses external sheets linked through `<link>` and `<style>`
+
+## internal 
+    - code can be applied right before the closing `</head>` tag but that can be lengthy and hard to edit 
+## external 
+     - this is linking external files jsut like with css 
+     - preferred method for cleaner work and less bungled up code
+     - link is applied in same way with `<script>` tags but much less code 
+     - bad practice to polute html files with random bits of js even if functionailty seems the same
+
+## to avoid errors with js being applied in the <head> before html body 
+     - document.addEventListener('DOMContentLoaded', () => {
+  ...
+});
+
+- allows the event listener to only apply once the body content (DOM CONTENT) is loaded
+ 
+    - like wise , in the external linking process, the <script src="script.js" defer></script>
+is used so that the `defer` can speak to the same issue
+### defer only works when js is applied externally
+
+### to note : if you apply js at the end of your body then it loads at the very end - might not seem like a massive issue but when more dynamic structures are required for a larger website this will cause major issues
+
+## difference between `defer` and `async`
+- okay so if you use `sync` ... script will download without blocking the page while js is applied
+    - this measn that you do not control the order scripts will run in. so `async` is best used when no elements rely on each other and all act independently
+- scripts using `defer` will load in the order that the body appears on page- they will not ruhn until whole content has loaded
+     - this is useful is script need dom to be fully in place
+
+
+## notes for fellow coders - not to be seen on page
+
+- 
+`/*
+  1. Get references to all the buttons on the page in an array format.
+  2. Loop through all the buttons and add a click event listener to each one.
+
+  When any button is pressed, the createParagraph() function will be run.
+*/` 
+- done with /* and ended */ or // function
+
+## variables - create them with `let` followed by variable name
+Variables are basically names for values (such as numbers, or strings of text). You create a variable with the keyword let followed by a name for your variable.
+## constants - create with `const` followed by constant name
+constants are also used to name values, but unlike variables, you can't change the value once set. In this case we are using constants to store references to parts of our user interface. The text inside some of these elements might change, but each constant always references the same HTML element that it was initialized with. You create a constant with the keyword const followed by a name for the constant.
+
+## attaching a value to either your `const` or `let` is done with `=`
+
+## defining functions - `function` followed by `name` with `({ })`
+- Here we have defined a function by using the keyword function, followed by a name, with parentheses put after it. After that we put two curly braces . Inside the curly braces goes all the code that we want to run whenever we call the function.
+
+When we want to run the code, we type the name of the function followed by the parentheses.
+
+ 
+
+
+
