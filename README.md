@@ -488,6 +488,43 @@ constants are also used to name values, but unlike variables, you can't change t
 
 When we want to run the code, we type the name of the function followed by the parentheses.
 
+# 02-11-22
+
+- Coding Conventions
+    - indent blocks with 2 spaces
+    - use camelCase for variable names;
+    - add spaces around operators (=, +, *)
+    - add spaces after commas (unless at end of line)
+    - limit line length to 80 characters (for readability)
+
+- Primitive Types
+
+    - Strings: used to represent textual data.
+    - Numbers: floating point (integers are a lie).
+    - Booleans: true and false.
+    - Null: has exactly one value - null.
+    - Undefined: a variable that has not been assigned a value has the value undefined.
+        - never manually assign a variable as undefined
+
+- Complex Types
+
+    - Arrays: a list of values, including other arrays.
+    - Objects: a collection of name/value pairs (properties).
+    - Functions: a block of reusable code that accepts arguments (input data) and may or may not return a value
+
+
+## opening developer tools
+
+- Mozilla Firefox
+
+To open the developer console in Firefox, click on the Firefox Menu in the upper-right-hand corner of the browser and select More Tools > Browser Console.
+
+You can also use the shortcut Shift + ⌘ + J (on macOS) or Shift + CTRL + J (on Windows/Linux).
+
+- safari
+You can also use the shortcut Option + ⌘ + C.
+
+
  
 
 
