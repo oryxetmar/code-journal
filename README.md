@@ -525,6 +525,16 @@ You can also use the shortcut Shift + ⌘ + J (on macOS) or Shift + CTRL + J (on
 You can also use the shortcut Option + ⌘ + C.
 
 
+# 02-14-22
+## fix animation in button exercise
+
+- toggle css class between visible and hidden 
+- lil dude will be in a div - target him in css ,
+- make him hidden to start and then toggle on a c lass that says like display flex and then itll unhidden 
+- hell be called on in the js written at bottom of the html
+
+- but he will be written in html
+
  
 
 
