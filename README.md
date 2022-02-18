@@ -535,6 +535,31 @@ You can also use the shortcut Option + ⌘ + C.
 
 - but he will be written in html
 
+# 02-17-22
+
+## avoid api keys with massive fields- keep it small
+
+- i wont lie, i am watching youtube videos on if else statements still. between now an tuesday i will make headway. 
+- feeling so useless on this right now
+
+# 02-18-22
+
+## okay here is the weekend run down
+
+1. assign 4 on loops
+ - means catching up on tutorial videos possibly
+ - youtube vids
+2. go through this last weeks full class daily to-dos / downloads/ exercises
+    - gain some confidence in the areas you are lacking 100%
+3. first assign - due tuesday
+    - tag and save any/all useful documents as youre going through daily class write-ups that apply to the first assign
+4. clean up finder
+     - its feeling sloppy and id love to have stuff saved properly like Erik does
+5. NODE - download and sort out
+
+
+
+
  
 
 
